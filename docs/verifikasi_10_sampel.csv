@@ -1,0 +1,11 @@
+﻿osm_type,osm_id,nama,jenis,lat,lon,url_osm,verifikasi_nama,verifikasi_jenis,verifikasi_lokasi,sumber_verifikasi,catatan
+node,7058054537,Segara Hotel,hotel,-8.2780864,115.3791336,https://www.openstreetmap.org/node/7058054537,,,,,
+node,7238422213,Batur Panorama,hotel,-8.2189435,115.3921304,https://www.openstreetmap.org/node/7238422213,,,,,
+node,13068182153,Batur Sunrise Guesthouse,hotel,-8.2490202,115.400863,https://www.openstreetmap.org/node/13068182153,,,,,
+node,12873439817,Pandawa Glamping Kintamani,hotel,-8.2352849,115.4078743,https://www.openstreetmap.org/node/12873439817,,,,,
+node,5065920543,The Volcania Guesthouse,hotel,-8.2837958,115.3652416,https://www.openstreetmap.org/node/5065920543,,,,,
+node,10983432080,Batur View Homestay,guest_house,-8.2797767,115.3578322,https://www.openstreetmap.org/node/10983432080,,,,,
+node,9555392317,Pondok Bali Cottage,guest_house,-8.2221038,115.3981606,https://www.openstreetmap.org/node/9555392317,,,,,
+node,5668936157,Black Lava Hostel,hostel,-8.2463334,115.3962755,https://www.openstreetmap.org/node/5668936157,,,,,
+node,10971340492,,,-8.223515,115.2546392,https://www.openstreetmap.org/node/10971340492,,,,,
+node,5175562421,Entrance to: Bunbulan Hill Hostel,hostel,-8.2220144,115.3953491,https://www.openstreetmap.org/node/5175562421,,,,,
